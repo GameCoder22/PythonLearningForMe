@@ -1,0 +1,8 @@
+LICENCE.txt
+README.md
+pyproject.toml
+setup.py
+src/User_helper.egg-info/PKG-INFO
+src/User_helper.egg-info/SOURCES.txt
+src/User_helper.egg-info/dependency_links.txt
+src/User_helper.egg-info/top_level.txt
